@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @billy614oh
 - 👀 I’m interested in storytelling, [e]sports, and geography
 - 🌱 I’m currently learning Computer & Information Science
-- 💞️ I’m looking to collaborate on climbing to diamond
+- 💞️ I’m looking to collaborate on climbing to diamond in League of Legends
 - 📫 How to reach me @medium_billiam on Twitter
 
 <!---
